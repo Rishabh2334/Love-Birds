@@ -1,0 +1,27 @@
+body{
+    
+    background-image: url("steps.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+
+nav{
+    font-size: 40px;
+}
+
+img{
+    position: absolute;
+    top: -90px;
+    left: 150px;
+    height: 260px;
+}
+
+#div0{
+    position: absolute;
+    height: 50px;
+    width: 800px;
+    top: 83px;
+    left: 344px;
+    font-size: 60px;
+    font-family: monospace;
+}

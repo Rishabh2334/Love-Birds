@@ -1,0 +1,103 @@
+body{
+    background-image: url("layered.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+
+nav{
+    font-size: 40px;
+}
+
+img{
+    position: absolute;
+    top: -90px;
+    left: 150px;
+    height: 260px;
+}
+
+.divClass{
+    font-family: cursive;
+    position: absolute;
+    height: 140px;
+    width: 290px;
+    background-color: rgba(121, 18, 85, 0.452);
+    font-size: 30px;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+#div0{
+    position: absolute;
+    height: 50px;
+    width: 800px;
+    top: 83px;
+    left: 344px;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+#div1{
+    top: 240px;
+    left: 120px;
+}
+#div2{
+    top: 240px;
+    left: 520px;
+}
+#div3{
+    top: 240px;
+    left: 920px;
+}
+#div4{
+    top: 440px;
+    left: 120px;
+}
+#div5{
+    top: 440px;
+    left: 520px;
+}
+#div6{
+    top: 440px;
+    left: 920px;
+}
+
+.bt{
+    top: 110px;
+    left: 65px;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: rgb(236, 21, 186);
+}
+.bt:hover{
+    border-color: pink;
+    background-color: rgb(236, 21, 186);
+    color: white;
+    cursor: pointer;
+}
+
+.btn{
+    position: absolute;
+    font-size: 25px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn:hover{
+    border-color: pink;
+    color: rgb(236, 21, 186);
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#home{
+    top: 10px;
+    left: 1100px;
+}
+#logout{
+    top: 10px;
+    left: 1220px;
+}
